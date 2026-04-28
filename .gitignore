@@ -1,5 +1,4 @@
 *.asv
-*.mlx
-*.mat
-*.fig
-*.log
+slprj/
+*.tmp
+*.bak
